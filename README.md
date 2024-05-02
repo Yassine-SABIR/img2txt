@@ -2,7 +2,7 @@ About
 ---------
 img2text helps you to display images in terminal using just characters without colors.
 
-<img src="/Images/logo.png" width="400"/><img src="/Images/logo_txt.png" width="400"/>
+<img src="/Images/logo.png" width="400" height="400"/><img src="/Images/logo_txt.png" width="400" height="400"/>
 
 Execution
 ---------
