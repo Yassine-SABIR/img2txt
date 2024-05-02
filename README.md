@@ -1,3 +1,9 @@
+About
+---------
+img2text helps you to display images in terminal using just characters without colors.
+
+
+
 Execution
 ---------
 
