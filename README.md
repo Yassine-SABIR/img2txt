@@ -4,7 +4,7 @@ img2text helps you to display images in terminal using just characters without c
 
 ![alt text](https://github.com/Yassine-SABIR/img2txt/blob/main/Images/logo.png?raw=true)
 ![alt text](https://github.com/Yassine-SABIR/img2txt/blob/main/Images/logo_txt.png?raw=true)
-
+<img src="/Images/logo_txt.png" width="200"/>
 Execution
 ---------
 
