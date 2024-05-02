@@ -2,9 +2,9 @@ About
 ---------
 img2text helps you to display images in terminal using just characters without colors.
 
-![alt text](https://github.com/Yassine-SABIR/img2txt/blob/main/Images/logo.png?raw=true)
-![alt text](https://github.com/Yassine-SABIR/img2txt/blob/main/Images/logo_txt.png?raw=true)
-<img src="/Images/logo_txt.png" width="200"/>
+<img src="/Images/logo.png" width="500" align="left"/>
+<img src="/Images/logo_txt.png" width="500" align="right"/>
+
 Execution
 ---------
 
