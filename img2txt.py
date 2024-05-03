@@ -3,8 +3,6 @@ import sys
 import os
 import re
 
-    
-
 def image2text(img, characters):
     height, width = img.shape
 
