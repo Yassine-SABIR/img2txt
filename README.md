@@ -28,4 +28,4 @@ This project is maintained by Yassine SABIR
 
 License
 ---------
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the <a href="https://github.com/Yassine-SABIR/img2txt/blob/main/LICENSE">LICENSE</a> file for more details.
