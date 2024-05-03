@@ -25,3 +25,7 @@ This will generate an ASCII representation of the specified image in the termina
 Author
 ---------
 This project is maintained by Yassine SABIR
+
+License
+---------
+This project is licensed under the MIT License. See the LICENSE file for more details.
